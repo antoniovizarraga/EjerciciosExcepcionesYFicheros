@@ -14,6 +14,8 @@ public class Main {
 		System.out.println("Introduce un número con decimales: ");
 		double test2 = Utils.readDouble(sc);
 		
+		System.out.println(test);
+		System.out.println(test2);
 		
 		sc.close();
 	}
